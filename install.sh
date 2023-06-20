@@ -13,7 +13,7 @@
 
 set -u
 
-SCARB_REPO="https://github.com/software-mansion/scarb"
+SCARB_REPO="https://github.com/solimander/scarb"
 XDG_DATA_HOME="${XDG_DATA_HOME:-"${HOME}/.local/share"}"
 INSTALL_ROOT="${XDG_DATA_HOME}/scarb-install"
 LOCAL_BIN="${HOME}/.local/bin"
